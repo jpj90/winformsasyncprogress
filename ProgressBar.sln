@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2019
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProgressBar", "ProgressBar\ProgressBar.csproj", "{8E83CD1A-F7C1-499C-BE0A-AFB240B079BA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyClassLib", "MyClassLib\MyClassLib.csproj", "{D60DAE00-28A6-45F8-A570-0F50DCFB067C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8E83CD1A-F7C1-499C-BE0A-AFB240B079BA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8E83CD1A-F7C1-499C-BE0A-AFB240B079BA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8E83CD1A-F7C1-499C-BE0A-AFB240B079BA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8E83CD1A-F7C1-499C-BE0A-AFB240B079BA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D60DAE00-28A6-45F8-A570-0F50DCFB067C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D60DAE00-28A6-45F8-A570-0F50DCFB067C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D60DAE00-28A6-45F8-A570-0F50DCFB067C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D60DAE00-28A6-45F8-A570-0F50DCFB067C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CF5D10ED-8018-464F-9B1B-BBE06D871095}
+	EndGlobalSection
+EndGlobal
